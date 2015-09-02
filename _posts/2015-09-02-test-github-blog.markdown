@@ -12,9 +12,12 @@ test github blog
 'abc'
 
 {% highlight c++ %}
-#define a 1
+#define ABC 1
+#include <stdio.h>
+
 void main()
 {
+  int i = 1;
   printf("hello world!");
 }
 
