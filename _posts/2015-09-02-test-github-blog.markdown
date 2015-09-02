@@ -5,10 +5,13 @@ date:   2015-09-02 20:49:32
 categories: test
 ---
 
-!!
+abc
+
 test github blog!!
+
 'test'
-!!
+
+abc
 
 {% highlight ruby %}
 def print_hi(name)
@@ -18,6 +21,6 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [www.github.com/sshuh][sshuh].
+Check out [www.github.com/sshuh][sshuh].
 
 [sshuh]: www.github.com/sshuh
