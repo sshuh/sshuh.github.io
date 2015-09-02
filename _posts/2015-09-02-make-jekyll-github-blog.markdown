@@ -5,7 +5,9 @@ date:   2015-09-02 22:21:32
 categories: github
 ---
 
+try this at `console`
 
+{% highlight console %}
 
 sudo apt-get remove jekyll   # remove version 0.x
 
@@ -21,3 +23,4 @@ cd sshuh.github.io
 
 git ~~~~~
 
+{% endhighlight %}
