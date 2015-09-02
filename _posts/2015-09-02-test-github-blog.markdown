@@ -1,2 +1,23 @@
-test github blog
+---
+layout: post
+title:  "test github blog!"
+date:   2015-09-02 20:49:32
+categories: test
+---
+
 !!
+test github blog!!
+'test'
+!!
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [www.github.com/sshuh][sshuh].
+
+[sshuh]: www.github.com/sshuh
