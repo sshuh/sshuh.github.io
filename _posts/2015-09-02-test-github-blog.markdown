@@ -11,7 +11,7 @@ test github blog
 
 'abc'
 
-{% highlight ruby %}
+{% highlight c++ %}
 #define a 1
 void main()
 {
