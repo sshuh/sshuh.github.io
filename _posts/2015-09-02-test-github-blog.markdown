@@ -9,7 +9,7 @@ abc
 
 test github blog
 
-'abc'
+`abc`
 
 {% highlight cpp %}
 #define ABC 1
