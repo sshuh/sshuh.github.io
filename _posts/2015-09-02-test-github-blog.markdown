@@ -5,11 +5,11 @@ date:   2015-09-02 20:49:32
 categories: test
 ---
 
-abc
-
 test github blog
 
-`abc`
+
+
+`c`
 
 {% highlight cpp %}
 
@@ -25,7 +25,23 @@ void main()
 {% endhighlight %}
 
 
-try this at console window!
+`cpp`
+
+{% highlight cpp %}
+
+#define ABC 1
+#include <stdio.h>
+
+void main()
+{
+  int i = 1;
+  printf("hello world!");
+}
+
+{% endhighlight %}
+
+
+try this at `console`!
 
 {% highlight console %}
 
@@ -38,7 +54,7 @@ whoami
 {% endhighlight %}
 
 
-cmake
+`cmake`
 
 {% highlight cmake %}
 
