@@ -11,7 +11,7 @@ test github blog
 
 'abc'
 
-{% highlight c++ %}
+{% highlight cpp %}
 #define ABC 1
 #include <stdio.h>
 
