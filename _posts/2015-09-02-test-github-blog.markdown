@@ -12,6 +12,7 @@ test github blog
 `abc`
 
 {% highlight cpp %}
+
 #define ABC 1
 #include <stdio.h>
 
@@ -23,15 +24,33 @@ void main()
 
 {% endhighlight %}
 
+
 try this at console window!
 
 {% highlight console %}
+
 ls
 
 ps
 
 whoami
+
 {% endhighlight %}
+
+
+cmake
+
+{% highlight cmake %}
+
+cmake_minimum_required(VERSION 2.8)
+project( Test )
+find_package( OpenCV REQUIRED )
+
+add_executable( Test test_main.cpp )
+target_link_libraries( Test ${OpenCV_LIBS} )
+
+{% endhighlight %}
+
 
 Check out [www.github.com/sshuh][sshuh].
 
