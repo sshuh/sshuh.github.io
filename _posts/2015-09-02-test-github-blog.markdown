@@ -23,6 +23,16 @@ void main()
 
 {% endhighlight %}
 
+try this at console window!
+
+{% highlight console %}
+ls
+
+ps
+
+whoami
+{% endhighlight %}
+
 Check out [www.github.com/sshuh][sshuh].
 
 [sshuh]: www.github.com/sshuh
