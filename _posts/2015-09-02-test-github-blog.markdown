@@ -9,14 +9,15 @@ abc
 
 test github blog
 
-abc
+'abc'
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+#define a 1
+void main()
+{
+  printf("hello world!");
+}
+
 {% endhighlight %}
 
 Check out [www.github.com/sshuh][sshuh].
