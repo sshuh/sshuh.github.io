@@ -8,10 +8,9 @@ categories: test
 test github blog
 
 
-
 `c`
 
-{% highlight cpp %}
+{% highlight c %}
 
 #define ABC 1
 #include <stdio.h>
@@ -41,7 +40,7 @@ void main()
 {% endhighlight %}
 
 
-try this at `console`!
+try this at `console`
 
 {% highlight console %}
 
