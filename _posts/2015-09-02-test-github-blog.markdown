@@ -69,4 +69,8 @@ target_link_libraries( Test ${OpenCV_LIBS} )
 
 Check out [www.github.com/sshuh][sshuh].
 
-[sshuh]: www.github.com/sshuh
+Check out [sshuh.github.io][blog].
+
+[sshuh]: http://www.github.com/sshuh
+
+[blog]: http://sshuh.github.io
